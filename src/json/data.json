@@ -18,6 +18,12 @@
     "title": "Red Herring",
     "content": "졸린 이뭉솔1",
     "price": 90000
+  },
+   {
+    "id": 6,
+    "title": "Red Herring",
+    "content": "웃긴 이뭉솔2",
+    "price": 90000
   }
 ]
 
