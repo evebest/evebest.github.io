@@ -1,4 +1,25 @@
 [
+    {
+    "id": 0,
+    "title": "Flowey",
+    "content": "화난 이뭉솔1",
+    "img": "https://evebest.github.io/src/img/angry1.png",
+    "price": 120000
+  },
+  {
+    "id": 1,
+    "title": "Flowey",
+    "content": "용감한 이뭉솔1",
+    "img": "https://evebest.github.io/src/img/brave1.png",
+    "price": 110000
+  },
+  {
+    "id": 2,
+    "title": "Flowey",
+    "content": "웃긴 이뭉솔1",
+    "img": "https://evebest.github.io/src/img/funny1.png",
+    "price": 130000
+  },
   {
     "id": 3,
     "title": "Flowey",
